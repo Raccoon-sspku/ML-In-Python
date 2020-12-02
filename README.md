@@ -92,7 +92,7 @@ Learn ML algorithm with python!
 ### ***4.降维模型***
 
 - [算法原理]()
-- [PCA算法实现](./Dimentionality Reduction/PCA.py)
+- [PCA算法实现](DimentionalityReduction/PCA.py)
 
 ### ***5.SVD 矩阵分解***
 

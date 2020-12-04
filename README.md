@@ -96,7 +96,7 @@ Learn ML algorithm with python!
 
 ### ***5.SVD 矩阵分解***
 
-- [算法原理]()
+- [算法原理](./Docs/奇异值分解.pdf)
 - [算法实现]()
 
 
